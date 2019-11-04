@@ -17,10 +17,11 @@
   z-index:0;
 }
 #u41 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
+  position:fixed;
+  left:50%;
+  margin-left:-198px;
+  top:50%;
+  margin-top:-345.5px;
   width:396px;
   height:691px;
 }
