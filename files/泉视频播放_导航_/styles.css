@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u76 {
+#u77 {
   position:fixed;
   left:50%;
   margin-left:-198px;
@@ -25,7 +25,7 @@
   width:396px;
   height:691px;
 }
-#u76_state0 {
+#u77_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -43,7 +43,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u76_state0_content {
+#u77_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -51,7 +51,7 @@
   width:1px;
   height:1px;
 }
-#u77_img {
+#u78_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -59,7 +59,7 @@
   width:376px;
   height:88px;
 }
-#u77 {
+#u78 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -68,20 +68,20 @@
   height:88px;
   display:flex;
 }
-#u77 .text {
+#u78 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u77_text {
+#u78_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u78 {
+#u79 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -89,7 +89,7 @@
   width:396px;
   height:603px;
 }
-#u78_state0 {
+#u79_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -107,7 +107,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u78_state0_content {
+#u79_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -115,7 +115,7 @@
   width:1px;
   height:1px;
 }
-#u79_img {
+#u80_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -123,7 +123,7 @@
   width:377px;
   height:727px;
 }
-#u79 {
+#u80 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -132,20 +132,20 @@
   height:727px;
   display:flex;
 }
-#u79 .text {
+#u80 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u79_text {
+#u80_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u80_div {
+#u81_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -163,7 +163,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u80 {
+#u81 {
   border-width:0px;
   position:absolute;
   left:11px;
@@ -173,14 +173,14 @@
   display:flex;
   opacity:0;
 }
-#u80 .text {
+#u81 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u80_text {
+#u81_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
