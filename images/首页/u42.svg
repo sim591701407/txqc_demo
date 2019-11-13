@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="104px" height="82px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip2">
+    <mask fill="white" id="clip4">
       <path d="M 267 3787  C 263.67 3787  261 3784.33  261 3781  L 261 3711  C 261 3707.67  263.67 3705  267 3705  L 359 3705  C 362.33 3705  365 3707.67  365 3711  L 365 3781  C 365 3784.33  362.33 3787  359 3787  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -261 -3705 )">
-    <path d="M 261 3705  L 365 3705  L 365 3787  L 261 3787  L 261 3705  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2)" />
-    <path d="M 267 3711  L 359 3711  L 359 3781  L 267 3781  L 267 3711  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip2)" />
-    <path d="M 321.23 3729.6  C 317.786 3729.6  315.08 3726.894  315.08 3723.45  C 315.08 3720.006  317.786 3717.3  321.23 3717.3  C 324.674 3717.3  327.38 3720.006  327.38 3723.45  C 327.38 3726.894  324.674 3729.6  321.23 3729.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2)" />
-    <path d="M 269 3779  L 269 3742.7  L 291 3726.2  L 321.8 3747.77692307692  L 339.4 3736.1  L 357 3747.77692307692  L 357 3779  L 269 3779  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip2)" />
+    <path d="M 261 3705  L 365 3705  L 365 3787  L 261 3787  L 261 3705  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip4)" />
+    <path d="M 267 3711  L 359 3711  L 359 3781  L 267 3781  L 267 3711  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip4)" />
+    <path d="M 321.23 3729.6  C 317.786 3729.6  315.08 3726.894  315.08 3723.45  C 315.08 3720.006  317.786 3717.3  321.23 3717.3  C 324.674 3717.3  327.38 3720.006  327.38 3723.45  C 327.38 3726.894  324.674 3729.6  321.23 3729.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip4)" />
+    <path d="M 269 3779  L 269 3742.7  L 291 3726.2  L 321.8 3747.77692307692  L 339.4 3736.1  L 357 3747.77692307692  L 357 3779  L 269 3779  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip4)" />
   </g>
 </svg>
